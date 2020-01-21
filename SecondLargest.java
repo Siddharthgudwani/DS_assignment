@@ -29,7 +29,7 @@ public class SecondLargest {
 			arr[i] = sc.nextInt();
 		}
 		System.out.println("Largest :  " + largest(arr, n));
-		System.out.println("Secondlargest :  " + largest(arr, n));
+		System.out.println("Second :  " + largest(arr, n));
 
 	}
 
